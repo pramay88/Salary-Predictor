@@ -32,5 +32,4 @@ This is a simple yet effective **Salary Predictor** project built using **Python
    ```bash
    git clone https://github.com/your-username/salary-predictor.git
    cd salary-predictor
-   streamlit main.py
-```
+   streamlit run main.py
