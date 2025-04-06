@@ -29,8 +29,10 @@ This is a simple yet effective **Salary Predictor** project built using **Python
 ## 🚀 How to Run
    ```bash
    # Clone the repository
-   git clone https://github.com/your-username/salary-predictor.git
+   git clone https://github.com/pramay88/Salary-Predictor.git
+
    # Go to the project directory
    cd salary-predictor
+
    # Run the app
    streamlit run main.py
